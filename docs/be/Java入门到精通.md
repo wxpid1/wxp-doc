@@ -17,3 +17,7 @@ yum install java-1.8.0-openjdk
 
 ## 3 Java基础语法
 ### 3.1 变量定义
+```java
+// 变量定义
+int a = 10;
+```
